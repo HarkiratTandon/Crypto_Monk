@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Nunito", serif;
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+body{
+    /* background: linear-gradient(to bottom, #27027c, #4a006d, #640c8d); */
+    background-color: rgb(79, 172, 254);
+}
+.app{
+    min-height: 100vh;
+    color: white;
+}
